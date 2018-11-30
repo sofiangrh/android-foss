@@ -1,0 +1,6 @@
+language: generic
+
+dist: xenial
+
+script:
+  - ./check.sh
